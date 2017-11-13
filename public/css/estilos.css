@@ -47,3 +47,10 @@ footer p {
 	padding-right: 50px;
 }
 
+/*Mobile (landscape)*/
+@media only screen and (min-width: 280px) and (max-width: 767px) {
+img {
+	height: 100px;
+}
+
+}
